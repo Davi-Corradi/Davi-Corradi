@@ -12,3 +12,7 @@ Estudante de Ciência da Computação na UVV.
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+![HTML5](https://skillicons.dev/icons?i=html)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=py)
