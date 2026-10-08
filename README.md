@@ -1,12 +1,15 @@
 # Olá, eu sou o Davi Corradi! 👋
 
+Estudante de Ciência da Computação.
+
 ### Tecnologias Trabalhadas:
 
-<p>
-  <img src="https://jsdelivr.net" width="45" height="45" alt="HTML5" style="margin-right: 10px;" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="JavaScript" style="margin-right: 10px;" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="C++" style="margin-right: 10px;" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="React Native" style="margin-right: 10px;" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="Unity" />
+<p align="left">
+  <img src="https://simpleicons.org" width="40" height="40" alt="HTML5" />&nbsp;&nbsp;
+  <img src="https://simpleicons.org" width="40" height="40" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://simpleicons.org" width="40" height="40" alt="C++" />&nbsp;&nbsp;
+  <img src="https://simpleicons.org" width="40" height="40" alt="React Native" />&nbsp;&nbsp;
+  <img src="https://simpleicons.org" width="40" height="40" alt="Unity" />
 </p>
+
 
